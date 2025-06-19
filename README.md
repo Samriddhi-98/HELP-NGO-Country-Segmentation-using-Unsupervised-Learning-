@@ -1,7 +1,7 @@
- Country Segmentation using Unsupervised Learning for HELP International
+# Country Segmentation using Unsupervised Learning for HELP International
 This project is a case study for HELP International, a non-governmental organization that wants to expand its operations. To do so efficiently, they need to know which countries require their help the most, based on various socio-economic and health indicators.
 
-We use unsupervised machine learning (clustering) to group countries based on their development levels.
+Used unsupervised machine learning (clustering) to group countries based on their development levels.
 
 🎯 Project Goal
 The main objective is to:
