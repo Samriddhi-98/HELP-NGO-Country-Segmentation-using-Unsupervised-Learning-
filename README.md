@@ -39,7 +39,6 @@ Plotted histograms and box plots to see distributions and outliers
 
 Identified correlated features using a heatmap
 
-✅ Goal: Get a clear idea of what each column means and how data is spread.
 
 2️⃣ Data Cleaning
 Next, we clean the data to make it usable:
@@ -52,7 +51,6 @@ Duplicates: Checked for and removed any repeated rows.
 
 Outliers: Found extreme values using box plots and statistical methods (like z-score) and handled them carefully.
 
-✅ Goal: Ensure the data is accurate, complete, and consistent.
 
 3️⃣ Data Preprocessing
 Before applying machine learning, the data must be in the right form.
@@ -71,7 +69,6 @@ Helps in faster processing and better visualization.
 
 Final Dataset: A clean, scaled, and compact version of the original dataset.
 
-✅ Goal: Prepare the dataset for accurate and meaningful clustering.
 
 4️⃣ Unsupervised Learning (Clustering)
 Here we apply algorithms to group the countries without using any predefined labels.
@@ -92,7 +89,6 @@ Used dendrograms to see how countries can be grouped step by step.
 
 Provided another way to validate our K-means clusters.
 
-✅ Goal: Classify countries into groups like "Low development", "Medium development", and "High development".
 
 📈 Key Insights
 After clustering, we found:
